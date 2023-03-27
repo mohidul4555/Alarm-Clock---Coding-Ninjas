@@ -32,5 +32,5 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 
 # LINKS
 
-<b>Live Host </b> </a>  &nbsp; <a href = "https://mohidul4555.github.io/Alarm-Clock---Coding-Ninjas"> <b>CODE</b> </a> <br>
+<a href = "file:///E:/CN/Self%20skill%20test/self%20skill%20test%20Front%20End/Alarm%20Clock/clock.html"> <b>LIVE PRODUCT</b> </a>  &nbsp; <a href = "https://github.com/mohidul4555/Alarm-Clock---Coding-Ninjas"> <b>CODE</b> </a> <br>
 
